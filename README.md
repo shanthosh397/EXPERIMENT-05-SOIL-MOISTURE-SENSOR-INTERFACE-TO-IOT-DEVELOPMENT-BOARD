@@ -1,6 +1,6 @@
 # EXPERIMENT 05: SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
 
-###  DATE:  
+###  DATE: 22.09.2026
 
 ###  NAME: SHANTHOSH G
 ###  ROLL NO : 2305003008
@@ -271,7 +271,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots on serial monitor   :
-<img width="1600" height="718" alt="IMG" src="https://github.com/user-attachments/assets/cec5949a-4524-4491-8226-adbc4c1908df" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ead8363e-c8f1-40f7-8081-2bc6e829f21f" />
 
 
 
